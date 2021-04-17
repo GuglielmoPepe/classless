@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Classless</title>
+
+        <link id="style" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/quick/src/quick.min.css" rel="stylesheet" />
+ 
+        <style>
+
+            #footer,#header,#main{
+                margin:0 auto;
+                max-width:760px;
+                padding:1em;
+            }
+
+            #header{text-align:center;}
+
+            #choose-content, #choose-style{
+                background:no-repeat right center / 1em ;
+                border:1px solid #aaaaaa;
+                color:inherit;
+                display:inline-block;
+                font:inherit;
+                height:auto;
+                letter-spacing:inherit;
+                line-height:1.5em;
+                margin:1em 0;
+                max-width:30%;
+                outline:none;
+                padding-bottom:0.25em;
+                padding-left:0.375em;
+                padding-right:1em;
+                padding-top:0.25em;
+                text-transform:none;
+                width:100%;-moz-appearance:none;
+                -webkit-appearance:none;
+                -ms-touch-action:manipulation;
+                touch-action:manipulation;
+            }
+            #choose-content:focus,#choose-style:focus{border-color:#000;outline:none;}
+            #choose-content:hover,#choose-style:hover{border-color:#000;outline:none;}
+            #choose-content:active,#choose-style:active{background-color:#aaaaaa;outline:none;}
+            #choose-content:not([multiple]):not([size]),#choose-style:not([multiple]):not([size]){background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='4'%3E%3Cpath d='M4 0h6L7 4'/%3E%3C/svg%3E");}
+
+            #choose-content > option,#choose-style > option{outline:none;width:100%;}
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <header id="header">
+
+            <select id="choose-style" onChange="changeCSS(this.value)">
+                <option value="https://cdn.jsdelivr.net/gh/GuglielmoPepe/quick/src/quick.min.css" selected="selected">quick.css</option>
+            </select>
+
+        </header>
+
+        <main id="main">
+
+
+
+        </main>
+
+        <footer id="footer">
+
+
+        </footer>
+
+        <script>
+
+            function changeCSS(url) {
+                document.getElementById("style").setAttribute("href", url);
+            }
+
+        </script>
+
+    </body>
+
+</html>
+
