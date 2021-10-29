@@ -1,11 +1,15 @@
-# Name
-This is where your description should go. Try and limit it to a paragraph or two.
+# Classless
+
+There are many classless CSS libraries available, including everything from very basic resets to opinionated styles consisting of many styles. 
+
+There isn't a "best" classless CSS library for all designs, only a best classless CSS library for your design. 
+
+To help you find the perfect classless CSS styles, this repository lets you try all the classless libraries on a same web page.
 
 ## Table of Contents 
 * [Benefits](#benefits)
 * [Features](#features)
 * [Usage](#usage)
-* [Documentation](#documentation)
 * [Support](#support)
 * [Faq](#faq)
 * [Contributing](#contributing)
@@ -16,19 +20,32 @@ This is where your description should go. Try and limit it to a paragraph or two
 
 
 ## Benefits
+ * Compare different classless libraries to same type of content
+ * You can choose the best classless styles for your design
+ * HTML is king while CSS is a supportive element that only makes HTML look better
 
 ## Features
 Same HTML, different CSS.
 
 ## Usage
-
-## Documentation
+Click on the links below and compare different classless libraries to same type of content, you can see the results and choose the best classless styles for your design.
 
 ## Support
 If you have a request, please create a GitHub [issue](https://github.com/GuglielmoPepe/classless/issues).
 
 
 ## Faq
+
+### A classless library is for everyone?
+Classless libraries aren't for everyone or every project. It is important to understand what you are doing.
+
+### How to include classless library in my project?
+You can include it in <head> section and forget about it, while it silently makes everything nicer. 
+
+### Why did you do that?
+While creating [quick.css](https://guglielmopepe.github.io/quick/) (my classless library), I have realized that the various classless libraries make different decisions regarding some HTML elements.
+
+So I decided to compare the various libraries using the same HTML.
 
 
 ## Contributing
