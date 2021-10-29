@@ -43,7 +43,7 @@ Click on the links below and compare different classless libraries to same type 
  * [Bahunya](https://guglielmopepe.github.io/classless/examples-Bahunya.html)
 
 
- * [Bamboo CSS](https://guglielmopepe.github.io/classless/examples-Bamboo CSS.html)
+ * [Bamboo CSS](https://guglielmopepe.github.io/classless/examples-Bamboo-CSS.html)
 
 
  * [BareCSS](https://guglielmopepe.github.io/classless/examples-BareCSS.html)
@@ -97,10 +97,10 @@ Click on the links below and compare different classless libraries to same type 
  * [Tacit](https://guglielmopepe.github.io/classless/examples-Tacit.html)
 
 
- * [Tufte CSS](https://guglielmopepe.github.io/classless/examples-Tufte CSS.html)
+ * [Tufte CSS](https://guglielmopepe.github.io/classless/examples-Tufte-CSS.html)
 
 
- * [W3C Core Styles](https://guglielmopepe.github.io/classless/examples-W3C Core Styles.html)
+ * [W3C Core Styles](https://guglielmopepe.github.io/classless/examples-W3C-Core-Styles.html)
 
 
  * [Water.css](https://guglielmopepe.github.io/classless/examples-Water.css.html)
