@@ -65,7 +65,7 @@ See the list of [open issues](https://github.com/GuglielmoPepe/classless/issues)
 
 
 ## Change log
-Please see [Changelog file](changelog.md) for more information on what has changed recently.
+Please see [Changelog file](CHANGELOG.md) for more information on what has changed recently.
 
 ## License
 Distributed under the MIT License. Please see [License File](license.md) for more information.
