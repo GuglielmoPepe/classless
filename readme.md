@@ -110,10 +110,8 @@ Click on the links below and compare different classless libraries to same type 
 
 
 
-If you want to suggest another library, send me an email to [&#105;&#110;&#102;&#111;&#64;&#103;&#117;&#103;&#108;&#105;&#101;&#108;&#109;&#111;&#112;&#101;&#112;&#101;&#46;&#99;&#111;&#109;](&#109;&#97;&#105;&#108;&#116;&#111;&#58;%69%6e%66%6f%40%67%75%67%6c%69%65%6c%6d%6f%70%65%70%65%2e%63%6f%6d).
-
 ## Support
-If you have a request, please create a GitHub [issue](https://github.com/GuglielmoPepe/classless/issues).
+If you want to suggest another library or you have a request, please create a GitHub [issue](https://github.com/GuglielmoPepe/classless/issues).
 
 
 ## Faq
@@ -147,7 +145,7 @@ See the list of [open issues](https://github.com/GuglielmoPepe/classless/issues)
 
 
 ## Change log
-Please see [Changelog file](CHANGELOG.md) for more information on what has changed recently.
+Please see [Changelog file](changelog.md) for more information on what has changed recently.
 
 ## License
 Distributed under the MIT License. Please see [License File](license.md) for more information.
