@@ -120,7 +120,7 @@ If you want to suggest another library or you have a request, please create a Gi
 Classless libraries aren't for everyone or every project. It is important to understand what you are doing.
 
 ### How to include classless library in my project?
-You can include it in <head> section and forget about it, while it silently makes everything nicer. 
+You can include it in `<head>` section and forget about it, while it silently makes everything nicer. 
 
 ### Why did you do that?
 While creating [quick.css](https://guglielmopepe.github.io/quick/) (my classless library), I have realized that the various classless libraries make different decisions regarding some HTML elements.
